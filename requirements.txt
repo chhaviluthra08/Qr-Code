@@ -1,0 +1,8 @@
+streamlit
+sqlite3
+hashlib
+datetime
+os
+qrcode
+io
+PIL
